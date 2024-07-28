@@ -16,5 +16,5 @@ The dataset used for this project consists of labeled images of healthy and dise
 
 # Acknowledgements
 Data Source link : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
-
 Libraries Used: TensorFlow, Keras, OpenCV, etc.
+
