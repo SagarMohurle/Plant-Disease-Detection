@@ -6,9 +6,13 @@ The project aims to accurately identify various plant diseases from leaf images,
 # Features
 
 Image Preprocessing: Techniques for cleaning and preparing leaf images for analysis.
+
 Model Training: Implementation of various machine learning models including CNNs for disease detection.
+
 Data Augmentation: Strategies to enhance the training dataset and improve model performance.
-Evaluation: Metrics and methods for evaluating the accuracy and robustness of the models.
+
+Evaluation: Metrics and methods for evaluating the accuracy and robustness of the models. 
+
 Deployment: Instructions for deploying the model as a web application
 
 # Dataset
